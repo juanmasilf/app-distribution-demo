@@ -56,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Container(
               padding: EdgeInsets.all(20),
               child: Text(
-                "Welcome to version 1.0.0!!",
+                "Welcome to version 2.0.0!!",
                 style: Theme.of(context).textTheme.headline4,
                 textAlign: TextAlign.center,
               ),
